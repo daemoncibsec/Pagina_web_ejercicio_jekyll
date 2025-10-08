@@ -16,7 +16,7 @@ plugins:
 
 lsi: false
 safe: true
-source: Pagina_web_ejercicio_jekyll
+source: /Pagina_web_ejercicio_jekyll
 incremental: false
 highlighter: rouge
 gist:
