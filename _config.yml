@@ -1,3 +1,19 @@
+title: daemoncibsec
+email: daemoncibsec@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  I'm just a guy that likes pentesting and developing malware, though I'm
+  still learning how to do so, I'm improving quite fast. If someone knows
+  anything that could help me gain knowledge about malware developing,
+  I'd be really glad.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+instagram_username: daemoncibsec
+github_username: daemoncibsec
+
+theme: minima
+plugins:
+  - jekyll-feed
+
 lsi: false
 safe: true
 source: Pagina_web_ejercicio_jekyll
